@@ -1,0 +1,10 @@
+import numpy as np
+from numpy.random import randn
+randn(y)
+x = 0
+y = 1000000
+for i in randn(y):
+    if i > -1 and i < 1:
+        x = x + 1
+z = round((x/y*100),2)
+print(z,"%")
