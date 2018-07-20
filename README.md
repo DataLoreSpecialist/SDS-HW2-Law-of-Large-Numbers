@@ -1,2 +1,2 @@
 # SDS-HW2-Law-of-Large-Numbers
-Homework Solution for Section 2
+Homework Solutions for the SDS Python Course
